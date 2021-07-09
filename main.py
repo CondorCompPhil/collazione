@@ -34,5 +34,5 @@ if __name__ == "__main__":
         with open(args.folder_path.split("/sources")[0] + "/out.xml", 'w') as f:
             print(xml_output, file=f)
 
-        with open(args.folder_path.split("/sources")[0] + "/out.txt", 'w') as f:
+        with open(args.folder_path.split("/sources")[0] + "/out.table", 'w') as f:
             print(table, file=f)
