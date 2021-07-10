@@ -1,0 +1,408 @@
+<root>
+    <app>
+        <rdg wit="#A" xml:id="A_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#F" xml:id="F_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#G" xml:id="G_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#H" xml:id="H_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#M" xml:id="M_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#P" xml:id="P_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#R" xml:id="R_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#S" xml:id="S_S_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#V" xml:id="V_w_1" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_2" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+        <rdg wit="#F" xml:id="F_w_2" lemma="il" pos="PROper" msd="NOMB.=s|GENRE=m|CAS=n">li</rdg>
+        <rdg wit="#G" xml:id="G_w_2" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i"
+            >soi</rdg>
+        <rdg wit="#H" xml:id="H_w_2" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+        <rdg wit="#M" xml:id="M_w_2" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+        <rdg wit="#P" xml:id="P_w_2" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+        <rdg wit="#R" xml:id="R_w_2" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i"
+            >soi</rdg>
+        <rdg wit="#S" xml:id="S_w_2" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+        <rdg wit="#V" xml:id="V_w_2" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=r">meisme</rdg>
+        <rdg wit="#F" xml:id="F_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=n">meisme</rdg>
+        <rdg wit="#G" xml:id="G_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=n">meismes</rdg>
+        <rdg wit="#H" xml:id="H_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=n">meismes</rdg>
+        <rdg wit="#M" xml:id="M_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=n">meismes</rdg>
+        <rdg wit="#P" xml:id="P_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=n">meismes</rdg>
+        <rdg wit="#R" xml:id="R_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=f|CAS=r">meisme</rdg>
+        <rdg wit="#S" xml:id="S_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=r">meisme</rdg>
+        <rdg wit="#V" xml:id="V_w_3" lemma="mëisme" pos="ADJind" msd="NOMB.=s|GENRE=m|CAS=n">meismes</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#F" xml:id="F_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#G" xml:id="G_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#H" xml:id="H_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#M" xml:id="M_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#P" xml:id="P_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#R" xml:id="R_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#S" xml:id="S_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#V" xml:id="V_w_4" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">consele</rdg>
+        <rdg wit="#F" xml:id="F_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conselle</rdg>
+        <rdg wit="#G" xml:id="G_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conseille</rdg>
+        <rdg wit="#H" xml:id="H_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">consoille</rdg>
+        <rdg wit="#M" xml:id="M_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conseille</rdg>
+        <rdg wit="#P" xml:id="P_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conseille</rdg>
+        <rdg wit="#R" xml:id="R_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conselle</rdg>
+        <rdg wit="#S" xml:id="S_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conseille</rdg>
+        <rdg wit="#V" xml:id="V_w_5" lemma="conseillier1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">conselle</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_6" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m|CAS=r">as</rdg>
+        <rdg wit="#F" xml:id="F_w_6" lemma="aluec" pos="PROind" msd="NOMB.=s|GENRE=m|CAS=r">alquel</rdg>
+        <rdg wit="#G" xml:id="G_w_6" lemma="auquel" pos="PROind" msd="DEGRE=-">auquel</rdg>
+        <rdg wit="#H" xml:id="H_w_6" lemma="auquel" pos="PROind" msd="DEGRE=-">auquel</rdg>
+        <rdg wit="#M" xml:id="M_w_6" lemma="auquel" pos="PROind" msd="DEGRE=-">auquel</rdg>
+        <rdg wit="#P" xml:id="P_w_6" lemma="auquel" pos="PROind" msd="DEGRE=-">auquel</rdg>
+        <rdg wit="#R" xml:id="R_w_6" lemma="aluec" pos="PROind" msd="NOMB.=s|GENRE=m|CAS=r">alquel</rdg>
+        <rdg wit="#S" xml:id="S_w_6" lemma="auquel" pos="PROind" msd="DEGRE=-">auquel</rdg>
+        <rdg wit="#V" xml:id="V_w_6" lemma="auquel" pos="PROind" msd="DEGRE=-">auquel</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_7" lemma="conte1" pos="NOMcom" msd="NOMB.=p|GENRE=m|CAS=r">ques</rdg>
+        <rdg wit="#H" xml:id="H_w_7" lemma="de" pos="PRE" msd="MORPH=empty">d</rdg>
+        <rdg wit="#S" xml:id="S_w_7" lemma="de" pos="PRE" msd="MORPH=empty">de</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_8" lemma="de+le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m|CAS=r">des</rdg>
+        <rdg wit="#F" xml:id="F_w_7" lemma="de+le" pos="PRE" msd="NOMB.=p|GENRE=m|CAS=r">des</rdg>
+        <rdg wit="#G" xml:id="G_w_7" lemma="de+le" pos="PRE.DETdef" msd="DEGRE=-">des</rdg>
+        <rdg wit="#H" xml:id="H_w_8" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=i">aus</rdg>
+        <rdg wit="#M" xml:id="M_w_7" lemma="de+le" pos="PRE.DETdef" msd="DEGRE=-">des</rdg>
+        <rdg wit="#P" xml:id="P_w_7" lemma="de+le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=m|CAS=r">des</rdg>
+        <rdg wit="#R" xml:id="R_w_7" lemma="de+le" pos="PRE" msd="NOMB.=p|GENRE=m|CAS=r">des</rdg>
+        <rdg wit="#V" xml:id="V_w_7" lemma="de+le" pos="PRE.DETdef" msd="DEGRE=-">des</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_9" lemma="dieu" pos="NOMcom" msd="NOMB.=p|GENRE=m|CAS=r">dex</rdg>
+        <rdg wit="#F" xml:id="F_w_8" lemma="deus" pos="ADJcar" msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+        <rdg wit="#G" xml:id="G_w_8" lemma="deus" pos="ADJcar" msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+        <rdg wit="#H" xml:id="H_w_9" lemma="deus" pos="PROcar" msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+        <rdg wit="#M" xml:id="M_w_8" lemma="deus" pos="ADJcar" msd="DEGRE=-">ii</rdg>
+        <rdg wit="#P" xml:id="P_w_8" lemma="dieu" pos="NOMcom" msd="NOMB.=p|GENRE=m|CAS=r">deuz</rdg>
+        <rdg wit="#R" xml:id="R_w_8" lemma="deus" pos="ADJcar" msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+        <rdg wit="#S" xml:id="S_w_8" lemma="deus" pos="PROcar" msd="DEGRE=-">ii</rdg>
+        <rdg wit="#V" xml:id="V_w_8" lemma="deus" pos="ADJcar" msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_10" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#F" xml:id="F_w_9" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#G" xml:id="G_w_9" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#H" xml:id="H_w_10" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#P" xml:id="P_w_9" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#R" xml:id="R_w_9" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#S" xml:id="S_w_9" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#V" xml:id="V_w_9" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_11" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#F" xml:id="F_w_10" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#G" xml:id="G_w_10" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#H" xml:id="H_w_11" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#M" xml:id="M_w_9" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#P" xml:id="P_w_10" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#R" xml:id="R_w_10" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#S" xml:id="S_w_10" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#V" xml:id="V_w_10" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+    </app>
+    <app>
+        <rdg wit="#F" xml:id="F_w_11" lemma="et" pos="CONcoo" msd="MORPH=empty">et</rdg>
+        <rdg wit="#G" xml:id="G_w_11" lemma="lors" pos="ADVgen" msd="DEGRE=-">lors</rdg>
+        <rdg wit="#H" xml:id="H_w_12" lemma="lors" pos="ADVgen" msd="DEGRE=-">lors</rdg>
+        <rdg wit="#M" xml:id="M_w_10" lemma="de" pos="PRE" msd="MORPH=empty">de</rdg>
+        <rdg wit="#P" xml:id="P_w_11" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=p|GENRE=m|CAS=i"
+            >lor</rdg>
+        <rdg wit="#R" xml:id="R_w_11" lemma="lors" pos="ADVgen" msd="DEGRE=-">lors</rdg>
+        <rdg wit="#S" xml:id="S_w_11" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+        <rdg wit="#V" xml:id="V_w_11" lemma="et" pos="CONcoo" msd="MORPH=empty">et</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dist</rdg>
+        <rdg wit="#F" xml:id="F_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dist</rdg>
+        <rdg wit="#G" xml:id="G_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dit</rdg>
+        <rdg wit="#H" xml:id="H_w_13" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dit</rdg>
+        <rdg wit="#M" xml:id="M_w_11" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=f|CAS=r">la</rdg>
+        <rdg wit="#P" xml:id="P_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dist</rdg>
+        <rdg wit="#R" xml:id="R_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dist</rdg>
+        <rdg wit="#S" xml:id="S_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dist</rdg>
+        <rdg wit="#V" xml:id="V_w_12" lemma="dire" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >dit</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_13" lemma="que4" pos="CONsub" msd="MORPH=empty">que</rdg>
+        <rdg wit="#H" xml:id="H_w_14" lemma="que4" pos="CONsub" msd="MORPH=empty">qu</rdg>
+        <rdg wit="#M" xml:id="M_w_12" lemma="part1" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r">part</rdg>
+        <rdg wit="#P" xml:id="P_w_13" lemma="que4" pos="CONsub" msd="MORPH=empty">c</rdg>
+        <rdg wit="#R" xml:id="R_w_13" lemma="que4" pos="CONsub" msd="MORPH=empty">c</rdg>
+        <rdg wit="#S" xml:id="S_w_13" lemma="ce1" pos="CONsub" msd="MORPH=empty">c</rdg>
+        <rdg wit="#V" xml:id="V_w_13" lemma="que4" pos="CONsub" msd="MORPH=empty">q</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_14" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=m|CAS=n">le</rdg>
+        <rdg wit="#F" xml:id="F_w_13" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+        <rdg wit="#G" xml:id="G_w_13" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+        <rdg wit="#H" xml:id="H_w_15" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+        <rdg wit="#M" xml:id="M_w_13" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+        <rdg wit="#P" xml:id="P_w_14" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+        <rdg wit="#R" xml:id="R_w_14" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">al</rdg>
+        <rdg wit="#S" xml:id="S_w_14" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+        <rdg wit="#V" xml:id="V_w_14" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=s|GENRE=m|CAS=r">au</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_15" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=n">lion</rdg>
+        <rdg wit="#F" xml:id="F_w_14" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lion</rdg>
+        <rdg wit="#G" xml:id="G_w_14" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lyon</rdg>
+        <rdg wit="#H" xml:id="H_w_16" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lyon</rdg>
+        <rdg wit="#M" xml:id="M_w_14" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lyon</rdg>
+        <rdg wit="#P" xml:id="P_w_15" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lyon</rdg>
+        <rdg wit="#R" xml:id="R_w_15" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lion</rdg>
+        <rdg wit="#S" xml:id="S_w_15" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">lion</rdg>
+        <rdg wit="#V" xml:id="V_w_15" lemma="lïon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">leon</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_16" lemma="secorre1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">secoura</rdg>
+        <rdg wit="#F" xml:id="F_w_15" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#G" xml:id="G_w_15" lemma="il" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r">le</rdg>
+        <rdg wit="#H" xml:id="H_w_17" lemma="soi1" pos="PROper" msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r"
+            >se</rdg>
+        <rdg wit="#M" xml:id="M_w_15" lemma="estre1" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >sera</rdg>
+        <rdg wit="#R" xml:id="R_w_16" lemma="secorer" pos="VERcjg"
+            msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">secolra</rdg>
+        <rdg wit="#S" xml:id="S_w_16" lemma="secorre1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">secourra</rdg>
+        <rdg wit="#V" xml:id="V_w_16" lemma="secorre1" pos="VERcjg"
+            msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">secorra</rdg>
+    </app>
+    <app>
+        <rdg wit="#F" xml:id="F_w_16" lemma="tenir1" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >tendra</rdg>
+        <rdg wit="#G" xml:id="G_w_16" lemma="faire" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s"
+            >fera</rdg>
+        <rdg wit="#H" xml:id="H_w_18" lemma="tenir1" pos="VERcjg" msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s"
+            >tanra</rdg>
+        <rdg wit="#P" xml:id="P_w_16" lemma="aidier" pos="VERcjg" msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s"
+            >aidera</rdg>
+        <rdg wit="#S" xml:id="S_w_17" lemma="car" pos="CONcoo" msd="MORPH=empty">car</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_17" lemma="que4" pos="CONsub" msd="MORPH=empty">qu</rdg>
+        <rdg wit="#F" xml:id="F_w_17" lemma="que2" pos="PROrel" msd="MORPH=empty">qu</rdg>
+        <rdg wit="#G" xml:id="G_w_17" lemma="que2" pos="CONsub" msd="MORPH=empty">c</rdg>
+        <rdg wit="#H" xml:id="H_w_19" lemma="que4" pos="CONsub" msd="MORPH=empty">qu</rdg>
+        <rdg wit="#M" xml:id="M_w_16" lemma="que4" pos="CONsub" msd="MORPH=empty">qu</rdg>
+        <rdg wit="#P" xml:id="P_w_17" lemma="que4" pos="CONsub" msd="MORPH=empty">qu</rdg>
+        <rdg wit="#R" xml:id="R_w_17" lemma="que2" pos="CONsub" msd="MORPH=empty">c</rdg>
+        <rdg wit="#V" xml:id="V_w_17" lemma="que4" pos="CONsub" msd="MORPH=empty">q</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_18" lemma="a3+le" pos="PRE.DETdef" msd="NOMB.=p|GENRE=f|CAS=r">as</rdg>
+        <rdg wit="#F" xml:id="F_w_18" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#G" xml:id="G_w_18" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >a</rdg>
+        <rdg wit="#H" xml:id="H_w_20" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#M" xml:id="M_w_17" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#P" xml:id="P_w_18" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#R" xml:id="R_w_18" lemma="avoir" pos="VERcjg" msd="MORPH=empty">a</rdg>
+        <rdg wit="#S" xml:id="S_w_18" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#V" xml:id="V_w_18" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_19" lemma="venimos" pos="NOMcom" msd="NOMB.=p|GENRE=m|CAS=r"
+            >venimeus</rdg>
+        <rdg wit="#F" xml:id="F_w_19" lemma="venimos" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r"
+            >venimeus</rdg>
+        <rdg wit="#G" xml:id="G_w_19" lemma="venimos" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r"
+            >venimeus</rdg>
+        <rdg wit="#H" xml:id="H_w_21" lemma="venimos" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r"
+            >venimeus</rdg>
+        <rdg wit="#M" xml:id="M_w_18" lemma="nul" pos="DETind" msd="NOMB.=s|GENRE=m|CAS=r">nul</rdg>
+        <rdg wit="#P" xml:id="P_w_19" lemma="enoios" pos="ADJqua" msd="DEGRE=-">enuious</rdg>
+        <rdg wit="#R" xml:id="R_w_19" lemma="venimes" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r"
+            >venimex</rdg>
+        <rdg wit="#S" xml:id="S_w_19" lemma="virment" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=n|DEGRE=p"
+            >vrinmeus</rdg>
+        <rdg wit="#V" xml:id="V_w_19" lemma="venimos" pos="NOMpro" msd="NOMB.=p|GENRE=m|CAS=r"
+            >venimeus</rdg>
+    </app>
+    <app>
+        <rdg wit="#F" xml:id="F_w_20" lemma="et" pos="CONcoo" msd="MORPH=empty">et</rdg>
+        <rdg wit="#G" xml:id="G_w_20" lemma="et" pos="CONcoo" msd="MORPH=empty">et</rdg>
+        <rdg wit="#M" xml:id="M_w_19" lemma="mauvais" pos="NOMcom" msd="NOMB.=p|GENRE=f|CAS=r"
+            >mauves</rdg>
+        <rdg wit="#P" xml:id="P_w_20" lemma="et" pos="CONcoo" msd="MORPH=empty">et</rdg>
+        <rdg wit="#V" xml:id="V_w_20" lemma="et" pos="CONcoo" msd="MORPH=empty">et</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_20" lemma="ne2" pos="CONcoo" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#H" xml:id="H_w_22" lemma="ne2" pos="CONcoo" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#M" xml:id="M_w_20" lemma="ne2" pos="CONcoo" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#R" xml:id="R_w_20" lemma="ne2" pos="CONcoo" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#S" xml:id="S_w_20" lemma="ne1" pos="ADVneg" msd="MORPH=empty">n</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_21" lemma="a3+le" pos="PRE.DETdef"
+            msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s">as</rdg>
+        <rdg wit="#F" xml:id="F_w_21" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#G" xml:id="G_w_21" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#H" xml:id="H_w_23" lemma="a3" pos="PRE" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >a</rdg>
+        <rdg wit="#M" xml:id="M_w_21" lemma="a3" pos="PRE" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >a</rdg>
+        <rdg wit="#P" xml:id="P_w_21" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+        <rdg wit="#R" xml:id="R_w_21" lemma="a3" pos="PRE" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >a</rdg>
+        <rdg wit="#S" xml:id="S_w_21" lemma="avoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >a</rdg>
+        <rdg wit="#V" xml:id="V_w_21" lemma="a3" pos="PRE" msd="MORPH=empty">a</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=p|GENRE=m|CAS=r">felons</rdg>
+        <rdg wit="#F" xml:id="F_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#G" xml:id="G_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#H" xml:id="H_w_24" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#M" xml:id="M_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#P" xml:id="P_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#R" xml:id="R_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#S" xml:id="S_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+        <rdg wit="#V" xml:id="V_w_22" lemma="felon" pos="NOMcom" msd="NOMB.=s|GENRE=f|CAS=r">felon</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#F" xml:id="F_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#G" xml:id="G_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#H" xml:id="H_w_25" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#M" xml:id="M_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#P" xml:id="P_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#R" xml:id="R_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#S" xml:id="S_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+        <rdg wit="#V" xml:id="V_w_23" lemma="ne1" pos="ADVneg" msd="MORPH=empty">ne</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#F" xml:id="F_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#G" xml:id="G_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#H" xml:id="H_w_26" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#M" xml:id="M_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#P" xml:id="P_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#R" xml:id="R_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#S" xml:id="S_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+        <rdg wit="#V" xml:id="V_w_24" lemma="devoir" pos="VERcjg" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >doit</rdg>
+    </app>
+    <app>
+        <rdg wit="#F" xml:id="F_w_25" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=n|CAS=n">l</rdg>
+        <rdg wit="#G" xml:id="G_w_25" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=n|CAS=n">l</rdg>
+        <rdg wit="#V" xml:id="V_w_25" lemma="le" pos="DETdef" msd="NOMB.=s|GENRE=n|CAS=n">l</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_25" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">on</rdg>
+        <rdg wit="#F" xml:id="F_w_26" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">on</rdg>
+        <rdg wit="#G" xml:id="G_w_26" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">en</rdg>
+        <rdg wit="#H" xml:id="H_w_27" lemma="on" pos="PROind" msd="MORPH=empty">an</rdg>
+        <rdg wit="#M" xml:id="M_w_25" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">on</rdg>
+        <rdg wit="#P" xml:id="P_w_25" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">on</rdg>
+        <rdg wit="#R" xml:id="R_w_25" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">on</rdg>
+        <rdg wit="#S" xml:id="S_w_25" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">on</rdg>
+        <rdg wit="#V" xml:id="V_w_26" lemma="on" pos="PROind" msd="NOMB.=s|GENRE=n|CAS=n">en</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_26" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</rdg>
+        <rdg wit="#F" xml:id="F_w_27" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</rdg>
+        <rdg wit="#G" xml:id="G_w_27" lemma="faire" pos="VERinf" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >fere</rdg>
+        <rdg wit="#H" xml:id="H_w_28" lemma="faire" pos="VERinf" msd="MORPH=empty">feire</rdg>
+        <rdg wit="#M" xml:id="M_w_26" lemma="faire" pos="VERinf" msd="MORPH=empty">fere</rdg>
+        <rdg wit="#P" xml:id="P_w_26" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</rdg>
+        <rdg wit="#R" xml:id="R_w_26" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</rdg>
+        <rdg wit="#S" xml:id="S_w_26" lemma="faire" pos="VERinf" msd="MORPH=empty">faire</rdg>
+        <rdg wit="#V" xml:id="V_w_27" lemma="faire" pos="VERinf" msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s"
+            >fere</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_27" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#F" xml:id="F_w_28" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#G" xml:id="G_w_28" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#H" xml:id="H_w_29" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#M" xml:id="M_w_27" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#P" xml:id="P_w_27" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#R" xml:id="R_w_27" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#S" xml:id="S_w_27" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+        <rdg wit="#V" xml:id="V_w_28" lemma="se" pos="CONsub" msd="MORPH=empty">se</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_28" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#F" xml:id="F_w_29" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#G" xml:id="G_w_29" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#H" xml:id="H_w_30" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#M" xml:id="M_w_28" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#P" xml:id="P_w_28" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#R" xml:id="R_w_28" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#S" xml:id="S_w_28" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+        <rdg wit="#V" xml:id="V_w_29" lemma="mal1" pos="NOMcom" msd="DEGRE=-">mal</rdg>
+    </app>
+    <app>
+        <rdg wit="#A" xml:id="A_w_29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#F" xml:id="F_w_30" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#G" xml:id="G_w_30" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#H" xml:id="H_w_31" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#M" xml:id="M_w_29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#P" xml:id="P_w_29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#R" xml:id="R_w_29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#S" xml:id="S_w_29" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+        <rdg wit="#V" xml:id="V_w_30" lemma="non" pos="ADVneg" msd="MORPH=empty">non</rdg>
+    </app>
+</root>

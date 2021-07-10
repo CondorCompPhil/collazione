@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<text>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_1 F_w_1 G_w_1 H_w_1 M_w_1 P_w_1 R_w_1 S_S_w_1 V_w_1 "
+           lemma="a3"
+           pos="PRE"
+           msd="MORPH=empty">a</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#H#M#P#S#V"
+           corresp="A_w_2 F_w_2 H_w_2 M_w_2 P_w_2 S_w_2 V_w_2 "
+           lemma="il"
+           pos="PROper">
+         <rdg type="morph"
+              wit="#A#H#M#P#S#V"
+              corresp="A_w_2 H_w_2 M_w_2 P_w_2 S_w_2 V_w_2 "
+              msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">lui</rdg>
+         <rdg type="morph"
+              wit="#F"
+              corresp="F_w_2 "
+              msd="NOMB.=s|GENRE=m|CAS=n">li</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#G#R"
+           corresp="G_w_2 R_w_2 "
+           lemma="soi1"
+           pos="PROper"
+           msd="PERS.=3|NOMB.=s|GENRE=m|CAS=i">soi</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_3 F_w_3 G_w_3 H_w_3 M_w_3 P_w_3 R_w_3 S_w_3 V_w_3 "
+           lemma="mëisme"
+           pos="ADJind">
+         <rdg type="morph"
+              wit="#A#S"
+              corresp="A_w_3 S_w_3 "
+              msd="NOMB.=s|GENRE=m|CAS=r">meisme</rdg>
+         <rdg type="morph"
+              wit="#F#G#H#M#P#V"
+              corresp="F_w_3 G_w_3 H_w_3 M_w_3 P_w_3 V_w_3 "
+              msd="NOMB.=s|GENRE=m|CAS=n">
+            <rdg type="graph" wit="#F" corresp="F_w_3 ">meisme</rdg>
+            <rdg type="graph"
+                 wit="#G#H#M#P#V"
+                 corresp="G_w_3 H_w_3 M_w_3 P_w_3 V_w_3 ">meismes</rdg>
+         </rdg>
+         <rdg type="morph"
+              wit="#R"
+              corresp="R_w_3 "
+              msd="NOMB.=s|GENRE=f|CAS=r">meisme</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_4 F_w_4 G_w_4 H_w_4 M_w_4 P_w_4 R_w_4 S_w_4 V_w_4 "
+           lemma="soi1"
+           pos="PROper"
+           msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r">se</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_5 F_w_5 G_w_5 H_w_5 M_w_5 P_w_5 R_w_5 S_w_5 V_w_5 "
+           lemma="conseillier1"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
+         <rdg type="graph" wit="#A" corresp="A_w_5 ">consele</rdg>
+         <rdg type="graph" wit="#F#R#V" corresp="F_w_5 R_w_5 V_w_5 ">conselle</rdg>
+         <rdg type="graph" wit="#G#M#P#S" corresp="G_w_5 M_w_5 P_w_5 S_w_5 ">conseille</rdg>
+         <rdg type="graph" wit="#H" corresp="H_w_5 ">consoille</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A"
+           corresp="A_w_6 "
+           lemma="a3+le"
+           pos="PRE.DETdef"
+           msd="NOMB.=p|GENRE=m|CAS=r">as</rdg>
+      <rdg type="subst"
+           wit="#F#R"
+           corresp="F_w_6 R_w_6 "
+           lemma="aluec"
+           pos="PROind"
+           msd="NOMB.=s|GENRE=m|CAS=r">alquel</rdg>
+      <rdg type="subst"
+           wit="#G#H#M#P#S#V"
+           corresp="G_w_6 H_w_6 M_w_6 P_w_6 S_w_6 V_w_6 "
+           lemma="auquel"
+           pos="PROind"
+           msd="DEGRE=-">auquel</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A"
+           corresp="A_w_7 "
+           lemma="conte1"
+           pos="NOMcom"
+           msd="NOMB.=p|GENRE=m|CAS=r">ques</rdg>
+      <rdg type="subst"
+           wit="#H#S"
+           corresp="H_w_7 S_w_7 "
+           lemma="de"
+           pos="PRE"
+           msd="MORPH=empty">
+         <rdg type="graph" wit="#H" corresp="H_w_7 ">d</rdg>
+         <rdg type="graph" wit="#S" corresp="S_w_7 ">de</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#M#P#R#V"
+           corresp="A_w_8 F_w_7 G_w_7 M_w_7 P_w_7 R_w_7 V_w_7 "
+           lemma="de+le">
+         <rdg type="pos"
+              wit="#A#G#M#P#V"
+              corresp="A_w_8 G_w_7 M_w_7 P_w_7 V_w_7 "
+              pos="PRE.DETdef">
+            <rdg type="morph"
+                 wit="#A#P"
+                 corresp="A_w_8 P_w_7 "
+                 msd="NOMB.=p|GENRE=m|CAS=r">des</rdg>
+            <rdg type="morph"
+                 wit="#G#M#V"
+                 corresp="G_w_7 M_w_7 V_w_7 "
+                 msd="DEGRE=-">des</rdg>
+         </rdg>
+         <rdg type="pos"
+              wit="#F#R"
+              corresp="F_w_7 R_w_7 "
+              pos="PRE"
+              msd="NOMB.=p|GENRE=m|CAS=r">des</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#H"
+           corresp="H_w_8 "
+           lemma="il"
+           pos="PROper"
+           msd="PERS.=3|NOMB.=p|GENRE=m|CAS=i">aus</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#P"
+           corresp="A_w_9 P_w_8 "
+           lemma="dieu"
+           pos="NOMcom"
+           msd="NOMB.=p|GENRE=m|CAS=r">
+         <rdg type="graph" wit="#A" corresp="A_w_9 ">dex</rdg>
+         <rdg type="graph" wit="#P" corresp="P_w_8 ">deuz</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#F#G#H#M#R#S#V"
+           corresp="F_w_8 G_w_8 H_w_9 M_w_8 R_w_8 S_w_8 V_w_8 "
+           lemma="deus">
+         <rdg type="pos"
+              wit="#F#G#M#R#V"
+              corresp="F_w_8 G_w_8 M_w_8 R_w_8 V_w_8 "
+              pos="ADJcar">
+            <rdg type="morph"
+                 wit="#F#G#R#V"
+                 corresp="F_w_8 G_w_8 R_w_8 V_w_8 "
+                 msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+            <rdg type="morph" wit="#M" corresp="M_w_8 " msd="DEGRE=-">ii</rdg>
+         </rdg>
+         <rdg type="pos" wit="#H#S" corresp="H_w_9 S_w_8 " pos="PROcar">
+            <rdg type="morph"
+                 wit="#H"
+                 corresp="H_w_9 "
+                 msd="NOMB.=p|GENRE=m|CAS=r">ii</rdg>
+            <rdg type="morph" wit="#S" corresp="S_w_8 " msd="DEGRE=-">ii</rdg>
+         </rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#P#R#S#V"
+           corresp="A_w_10 F_w_9 G_w_9 H_w_10 P_w_9 R_w_9 S_w_9 V_w_9 "
+           lemma="il"
+           pos="PROper"
+           msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_11 F_w_10 G_w_10 H_w_11 M_w_9 P_w_10 R_w_10 S_w_10 V_w_10 "
+           lemma="aidier"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">aidera</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#F#V"
+           corresp="F_w_11 V_w_11 "
+           lemma="et"
+           pos="CONcoo"
+           msd="MORPH=empty">et</rdg>
+      <rdg type="subst"
+           wit="#G#H#R"
+           corresp="G_w_11 H_w_12 R_w_11 "
+           lemma="lors"
+           pos="ADVgen"
+           msd="DEGRE=-">lors</rdg>
+      <rdg type="subst"
+           wit="#M"
+           corresp="M_w_10 "
+           lemma="de"
+           pos="PRE"
+           msd="MORPH=empty">de</rdg>
+      <rdg type="subst"
+           wit="#P#S"
+           corresp="P_w_11 S_w_11 "
+           lemma="il"
+           pos="PROper">
+         <rdg type="morph"
+              wit="#P"
+              corresp="P_w_11 "
+              msd="PERS.=3|NOMB.=p|GENRE=m|CAS=i">lor</rdg>
+         <rdg type="morph"
+              wit="#S"
+              corresp="S_w_11 "
+              msd="PERS.=3|NOMB.=s|GENRE=m|CAS=n">il</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#P#R#S#V"
+           corresp="A_w_12 F_w_12 G_w_12 H_w_13 P_w_12 R_w_12 S_w_12 V_w_12 "
+           lemma="dire"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">
+         <rdg type="graph"
+              wit="#A#F#P#R#S"
+              corresp="A_w_12 F_w_12 P_w_12 R_w_12 S_w_12 ">dist</rdg>
+         <rdg type="graph" wit="#G#H#V" corresp="G_w_12 H_w_13 V_w_12 ">dit</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#M"
+           corresp="M_w_11 "
+           lemma="le"
+           pos="DETdef"
+           msd="NOMB.=s|GENRE=f|CAS=r">la</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#H#P#R#V"
+           corresp="A_w_13 H_w_14 P_w_13 R_w_13 V_w_13 "
+           lemma="que4"
+           pos="CONsub"
+           msd="MORPH=empty">
+         <rdg type="graph" wit="#A" corresp="A_w_13 ">que</rdg>
+         <rdg type="graph" wit="#H" corresp="H_w_14 ">qu</rdg>
+         <rdg type="graph" wit="#P#R" corresp="P_w_13 R_w_13 ">c</rdg>
+         <rdg type="graph" wit="#V" corresp="V_w_13 ">q</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#M"
+           corresp="M_w_12 "
+           lemma="part1"
+           pos="NOMcom"
+           msd="NOMB.=s|GENRE=f|CAS=r">part</rdg>
+      <rdg type="subst"
+           wit="#S"
+           corresp="S_w_13 "
+           lemma="ce1"
+           pos="CONsub"
+           msd="MORPH=empty">c</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A"
+           corresp="A_w_14 "
+           lemma="le"
+           pos="DETdef"
+           msd="NOMB.=s|GENRE=m|CAS=n">le</rdg>
+      <rdg type="subst"
+           wit="#F#G#H#M#P#R#S#V"
+           corresp="F_w_13 G_w_13 H_w_15 M_w_13 P_w_14 R_w_14 S_w_14 V_w_14 "
+           lemma="a3+le"
+           pos="PRE.DETdef"
+           msd="NOMB.=s|GENRE=m|CAS=r">
+         <rdg type="graph"
+              wit="#F#G#H#M#P#S#V"
+              corresp="F_w_13 G_w_13 H_w_15 M_w_13 P_w_14 S_w_14 V_w_14 ">au</rdg>
+         <rdg type="graph" wit="#R" corresp="R_w_14 ">al</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_15 F_w_14 G_w_14 H_w_16 M_w_14 P_w_15 R_w_15 S_w_15 V_w_15 "
+           lemma="lïon"
+           pos="NOMcom">
+         <rdg type="morph"
+              wit="#A"
+              corresp="A_w_15 "
+              msd="NOMB.=s|GENRE=m|CAS=n">lion</rdg>
+         <rdg type="morph"
+              wit="#F#G#H#M#P#R#S#V"
+              corresp="F_w_14 G_w_14 H_w_16 M_w_14 P_w_15 R_w_15 S_w_15 V_w_15 "
+              msd="NOMB.=s|GENRE=m|CAS=r">
+            <rdg type="graph" wit="#F#R#S" corresp="F_w_14 R_w_15 S_w_15 ">lion</rdg>
+            <rdg type="graph" wit="#G#H#M#P" corresp="G_w_14 H_w_16 M_w_14 P_w_15 ">lyon</rdg>
+            <rdg type="graph" wit="#V" corresp="V_w_15 ">leon</rdg>
+         </rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#S#V"
+           corresp="A_w_16 S_w_16 V_w_16 "
+           lemma="secorre1"
+           pos="VERcjg">
+         <rdg type="morph"
+              wit="#A#S"
+              corresp="A_w_16 S_w_16 "
+              msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">
+            <rdg type="graph" wit="#A" corresp="A_w_16 ">secoura</rdg>
+            <rdg type="graph" wit="#S" corresp="S_w_16 ">secourra</rdg>
+         </rdg>
+         <rdg type="morph"
+              wit="#V"
+              corresp="V_w_16 "
+              msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">secorra</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#F#H"
+           corresp="F_w_15 H_w_17 "
+           lemma="soi1"
+           pos="PROper"
+           msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r">se</rdg>
+      <rdg type="subst"
+           wit="#G"
+           corresp="G_w_15 "
+           lemma="il"
+           pos="PROper"
+           msd="PERS.=3|NOMB.=s|GENRE=m|CAS=r">le</rdg>
+      <rdg type="subst"
+           wit="#M"
+           corresp="M_w_15 "
+           lemma="estre1"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">sera</rdg>
+      <rdg type="subst"
+           wit="#R"
+           corresp="R_w_16 "
+           lemma="secorer"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">secolra</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#F#H"
+           corresp="F_w_16 H_w_18 "
+           lemma="tenir1"
+           pos="VERcjg">
+         <rdg type="morph"
+              wit="#F"
+              corresp="F_w_16 "
+              msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">tendra</rdg>
+         <rdg type="morph"
+              wit="#H"
+              corresp="H_w_18 "
+              msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">tanra</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#G"
+           corresp="G_w_16 "
+           lemma="faire"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=psp|PERS.=3|NOMB.=s">fera</rdg>
+      <rdg type="subst"
+           wit="#P"
+           corresp="P_w_16 "
+           lemma="aidier"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=fut|PERS.=3|NOMB.=s">aidera</rdg>
+      <rdg type="subst"
+           wit="#S"
+           corresp="S_w_17 "
+           lemma="car"
+           pos="CONcoo"
+           msd="MORPH=empty">car</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#H#M#P#V"
+           corresp="A_w_17 H_w_19 M_w_16 P_w_17 V_w_17 "
+           lemma="que4"
+           pos="CONsub"
+           msd="MORPH=empty">
+         <rdg type="graph" wit="#A#H#M#P" corresp="A_w_17 H_w_19 M_w_16 P_w_17 ">qu</rdg>
+         <rdg type="graph" wit="#V" corresp="V_w_17 ">q</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#F#G#R"
+           corresp="F_w_17 G_w_17 R_w_17 "
+           lemma="que2">
+         <rdg type="pos"
+              wit="#F"
+              corresp="F_w_17 "
+              pos="PROrel"
+              msd="MORPH=empty">qu</rdg>
+         <rdg type="pos"
+              wit="#G#R"
+              corresp="G_w_17 R_w_17 "
+              pos="CONsub"
+              msd="MORPH=empty">c</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A"
+           corresp="A_w_18 "
+           lemma="a3+le"
+           pos="PRE.DETdef"
+           msd="NOMB.=p|GENRE=f|CAS=r">as</rdg>
+      <rdg type="subst"
+           wit="#F#H#M#P#S#V"
+           corresp="F_w_18 H_w_20 M_w_17 P_w_18 S_w_18 V_w_18 "
+           lemma="a3"
+           pos="PRE"
+           msd="MORPH=empty">a</rdg>
+      <rdg type="subst"
+           wit="#G#R"
+           corresp="G_w_18 R_w_18 "
+           lemma="avoir"
+           pos="VERcjg">
+         <rdg type="morph"
+              wit="#G"
+              corresp="G_w_18 "
+              msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</rdg>
+         <rdg type="morph" wit="#R" corresp="R_w_18 " msd="MORPH=empty">a</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#V"
+           corresp="A_w_19 F_w_19 G_w_19 H_w_21 V_w_19 "
+           lemma="venimos">
+         <rdg type="pos"
+              wit="#A#F#G#H"
+              corresp="A_w_19 F_w_19 G_w_19 H_w_21 "
+              pos="NOMcom">
+            <rdg type="morph"
+                 wit="#A"
+                 corresp="A_w_19 "
+                 msd="NOMB.=p|GENRE=m|CAS=r">venimeus</rdg>
+            <rdg type="morph"
+                 wit="#F#G#H"
+                 corresp="F_w_19 G_w_19 H_w_21 "
+                 msd="NOMB.=s|GENRE=m|CAS=r">venimeus</rdg>
+         </rdg>
+         <rdg type="pos"
+              wit="#V"
+              corresp="V_w_19 "
+              pos="NOMpro"
+              msd="NOMB.=p|GENRE=m|CAS=r">venimeus</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#M"
+           corresp="M_w_18 "
+           lemma="nul"
+           pos="DETind"
+           msd="NOMB.=s|GENRE=m|CAS=r">nul</rdg>
+      <rdg type="subst"
+           wit="#P"
+           corresp="P_w_19 "
+           lemma="enoios"
+           pos="ADJqua"
+           msd="DEGRE=-">enuious</rdg>
+      <rdg type="subst"
+           wit="#R"
+           corresp="R_w_19 "
+           lemma="venimes"
+           pos="NOMcom"
+           msd="NOMB.=s|GENRE=m|CAS=r">venimex</rdg>
+      <rdg type="subst"
+           wit="#S"
+           corresp="S_w_19 "
+           lemma="virment"
+           pos="NOMcom"
+           msd="NOMB.=s|GENRE=m|CAS=n|DEGRE=p">vrinmeus</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#F#G#P#V"
+           corresp="F_w_20 G_w_20 P_w_20 V_w_20 "
+           lemma="et"
+           pos="CONcoo"
+           msd="MORPH=empty">et</rdg>
+      <rdg type="subst"
+           wit="#M"
+           corresp="M_w_19 "
+           lemma="mauvais"
+           pos="NOMcom"
+           msd="NOMB.=p|GENRE=f|CAS=r">mauves</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#H#M#R"
+           corresp="A_w_20 H_w_22 M_w_20 R_w_20 "
+           lemma="ne2"
+           pos="CONcoo"
+           msd="MORPH=empty">ne</rdg>
+      <rdg type="subst"
+           wit="#S"
+           corresp="S_w_20 "
+           lemma="ne1"
+           pos="ADVneg"
+           msd="MORPH=empty">n</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A"
+           corresp="A_w_21 "
+           lemma="a3+le"
+           pos="PRE.DETdef"
+           msd="MODE=ind|TEMPS=pst|PERS.=2|NOMB.=s">as</rdg>
+      <rdg type="subst"
+           wit="#F#G#H#M#P#R#V"
+           corresp="F_w_21 G_w_21 H_w_23 M_w_21 P_w_21 R_w_21 V_w_21 "
+           lemma="a3"
+           pos="PRE">
+         <rdg type="morph"
+              wit="#F#G#P#V"
+              corresp="F_w_21 G_w_21 P_w_21 V_w_21 "
+              msd="MORPH=empty">a</rdg>
+         <rdg type="morph"
+              wit="#H#M#R"
+              corresp="H_w_23 M_w_21 R_w_21 "
+              msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</rdg>
+      </rdg>
+      <rdg type="subst"
+           wit="#S"
+           corresp="S_w_21 "
+           lemma="avoir"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">a</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_22 F_w_22 G_w_22 H_w_24 M_w_22 P_w_22 R_w_22 S_w_22 V_w_22 "
+           lemma="felon"
+           pos="NOMcom">
+         <rdg type="morph"
+              wit="#A"
+              corresp="A_w_22 "
+              msd="NOMB.=p|GENRE=m|CAS=r">felons</rdg>
+         <rdg type="morph"
+              wit="#F#G#H#M#P#R#S"
+              corresp="F_w_22 G_w_22 H_w_24 M_w_22 P_w_22 R_w_22 S_w_22 "
+              msd="NOMB.=s|GENRE=m|CAS=r">felon</rdg>
+         <rdg type="morph"
+              wit="#V"
+              corresp="V_w_22 "
+              msd="NOMB.=s|GENRE=f|CAS=r">felon</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_23 F_w_23 G_w_23 H_w_25 M_w_23 P_w_23 R_w_23 S_w_23 V_w_23 "
+           lemma="ne1"
+           pos="ADVneg"
+           msd="MORPH=empty">ne</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_24 F_w_24 G_w_24 H_w_26 M_w_24 P_w_24 R_w_24 S_w_24 V_w_24 "
+           lemma="devoir"
+           pos="VERcjg"
+           msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">doit</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#F#G#V"
+           corresp="F_w_25 G_w_25 V_w_25 "
+           lemma="le"
+           pos="DETdef"
+           msd="NOMB.=s|GENRE=n|CAS=n">l</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_25 F_w_26 G_w_26 H_w_27 M_w_25 P_w_25 R_w_25 S_w_25 V_w_26 "
+           lemma="on"
+           pos="PROind">
+         <rdg type="morph"
+              wit="#A#F#G#M#P#R#S#V"
+              corresp="A_w_25 F_w_26 G_w_26 M_w_25 P_w_25 R_w_25 S_w_25 V_w_26 "
+              msd="NOMB.=s|GENRE=n|CAS=n">
+            <rdg type="graph"
+                 wit="#A#F#M#P#R#S"
+                 corresp="A_w_25 F_w_26 M_w_25 P_w_25 R_w_25 S_w_25 ">on</rdg>
+            <rdg type="graph" wit="#G#V" corresp="G_w_26 V_w_26 ">en</rdg>
+         </rdg>
+         <rdg type="morph" wit="#H" corresp="H_w_27 " msd="MORPH=empty">an</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_26 F_w_27 G_w_27 H_w_28 M_w_26 P_w_26 R_w_26 S_w_26 V_w_27 "
+           lemma="faire"
+           pos="VERinf">
+         <rdg type="morph"
+              wit="#A#F#H#M#P#R#S"
+              corresp="A_w_26 F_w_27 H_w_28 M_w_26 P_w_26 R_w_26 S_w_26 "
+              msd="MORPH=empty">
+            <rdg type="graph"
+                 wit="#A#F#P#R#S"
+                 corresp="A_w_26 F_w_27 P_w_26 R_w_26 S_w_26 ">faire</rdg>
+            <rdg type="graph" wit="#H" corresp="H_w_28 ">feire</rdg>
+            <rdg type="graph" wit="#M" corresp="M_w_26 ">fere</rdg>
+         </rdg>
+         <rdg type="morph"
+              wit="#G#V"
+              corresp="G_w_27 V_w_27 "
+              msd="MODE=ind|TEMPS=pst|PERS.=3|NOMB.=s">fere</rdg>
+      </rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_27 F_w_28 G_w_28 H_w_29 M_w_27 P_w_27 R_w_27 S_w_27 V_w_28 "
+           lemma="se"
+           pos="CONsub"
+           msd="MORPH=empty">se</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_28 F_w_29 G_w_29 H_w_30 M_w_28 P_w_28 R_w_28 S_w_28 V_w_29 "
+           lemma="mal1"
+           pos="NOMcom"
+           msd="DEGRE=-">mal</rdg>
+   </app>
+    <app>
+      <rdg type="subst"
+           wit="#A#F#G#H#M#P#R#S#V"
+           corresp="A_w_29 F_w_30 G_w_30 H_w_31 M_w_29 P_w_29 R_w_29 S_w_29 V_w_30 "
+           lemma="non"
+           pos="ADVneg"
+           msd="MORPH=empty">non</rdg>
+   </app>
+</text>

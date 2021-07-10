@@ -1,0 +1,15 @@
+Sur la catégorisation
+
+
+- dossier xsl : j'ai mis les xsl sur lesquelles j'ai travaillé dans ce dossier avec les deux xml que cela produit
+
+- processus en deux étapes : d'abord le regroupement des variantes, puis la mise en conformité du document
+
+- le script script_cat_var.py effectue cette catégorisation sur out.xml, qui provient directement de collatex ; les fichiers cat_auto sont produits automatiquement ; la version finale est out_cat_auto.xml
+
+- attention : les fichiers XML doivent avoir pour chaque mot des xml:id différents, sinon lxml ne fonctionne pas
+
+
+- omissions pas notées
+- présence d'un attribut @corresp sur chaque <rdg>, qui correspond aux id de chaque occurrence concernée -> est-ce nécessaire ?
+- conservation de l'élément <app> à chaque fois, même lorsqu'une leçon identique (pour conformité TEI)
