@@ -1,0 +1,24 @@
+L'objet du script est d'aligner des séquences courtes de textes similaires pour pouvoir ensuite procéder à une collation automatique via Collatex, qui ne fonctionne pas sur des portions de texte larges.
+
+La librairie text_matcher (https://github.com/JonathanReeve/text-matcher) [installation pip3 install text-matcher] permet de repérer les passages similaires entre deux textes. Ce script fait apparaître les passages qui correspondent et permet d'obtenir les positions des caractères qui commencent et finissent ces passages identiques.
+
+Notre idée est de reprendre la position du premier caractère et de créer une division à partir de celui-ci jusqu'au prochain premier caractère de passage trouvé. 
+
+On associe à chaque token un dictionnaire contenant la forme, le lemme, son id et la position de son premier caractère. Grâce à ce dictionnaire, il est possible de récupérer les id des mots qui commencent des passages similaires. Avec l'information des identifiants, il est possible de réinjecter les données dans un XML, ce qui permet d'obtenir automatiquement des marques de paragraphes (qui correspondent donc à une division pratique du texte).
+
+Étapes : on parse les fichiers XML, on les met dans des dictionnaires, avec pour chaque token les informations de forme, de lemme et d'id
+- on ajoute la position du token et la position de son premier caractère
+- on récupère à partir de ce dictionnaire les lemmes qu'on transforme en texte brut, et c'est sur ce texte qu'on passe text_matcher
+- text_matcher nous renvoie un log avec la position des caractères
+- on compare cette liste avec les données de notre dictionnaire et on obtient une liste d'identifiants
+- on crée de nouveaux XML en ajoutant, pour chaque mot comprenant un id dans la liste des id qui matchent, une balise <p> avant
+- on a besoin de retransformer l'XML pour que le paragraphe devienne élément parent des mots
+-les paragraphes qui se correspondent dans les docs de sortie ont le même numéro
+
+Deux scripts ont été créés : un fonctionnant sur des documents XML/TEI non structurés en chapitres (il faut que le texte soit simplement dans text/body), un autre, toujours sur des documents XML-TEI, prenant en compte des divisions déjà réalisées (de type chapitre par exemple). Dans ce dernier, des éléments <div> doivent comprendre un @xml:id et un attribut @corresp afin de réaliser l'alignement sur des div qui se font écho l'une à l'autre.
+
+L'alignement est réalisé sur des @lemma des mots (<w>) des textes.
+
+
+TO DO :
+- essayer de décrire un script qui permettrait un alignement de plus de deux textes
